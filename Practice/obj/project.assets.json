@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\bài 2\\Practice\\Practice.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\ASP.NET-MVC\\WAD-Practice_Dothichanhoa\\Practice\\Practice.csproj",
       "projectName": "Practice",
-      "projectPath": "C:\\Users\\Admin\\source\\bài 2\\Practice\\Practice.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ASP.NET-MVC\\WAD-Practice_Dothichanhoa\\Practice\\Practice.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\bài 2\\Practice\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\ASP.NET-MVC\\WAD-Practice_Dothichanhoa\\Practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
